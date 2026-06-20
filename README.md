@@ -61,8 +61,8 @@ RAG grounds an LLM's responses in your own documents, which:
 - Persistent vector storage (currently resets on every run)
 - Overlapping/semantic chunking strategies
 - Support for multiple file formats (DOCX, TXT)
-```
-📌 Purpose
+
+## Purpose
 This project is part of my journey to become an AI Engineer, focusing on base concepts for now to build production-ready multi-component LLM pipelines and AI agents.
 
 📧 Contact
